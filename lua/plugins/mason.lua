@@ -16,6 +16,7 @@ return {
       "lua-language-server",
       "gofumpt",
       "goimports",
+      "sqlls",
       -- "flake8",
     },
   },
