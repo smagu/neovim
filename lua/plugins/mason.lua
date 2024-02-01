@@ -14,6 +14,8 @@ return {
       "debugpy",
       "fixjson",
       "lua-language-server",
+      "gofumpt",
+      "goimports",
       -- "flake8",
     },
   },
